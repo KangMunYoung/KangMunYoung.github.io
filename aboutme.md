@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 행복하고 싶은 사람
+subtitle: 행복한 사람
 ---
 
 안녕하세요 저는 강문영입니다.
@@ -11,7 +11,7 @@ subtitle: 행복하고 싶은 사람
 
 ### 나의 이야기
 
-기구설계자에서 개발자로 전향한 행복하고 싶은 사람입니다.
+기구설계자에서 개발자로 전향한 행복한 사람입니다.
 
 <!-- 
 My name is Inigo Montoya. I have the following qualities:
